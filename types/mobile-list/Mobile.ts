@@ -1,0 +1,1 @@
+export type MobileType = 'Samsung' | 'Apple' | 'Microsoft';
