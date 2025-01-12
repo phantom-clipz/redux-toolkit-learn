@@ -1,5 +1,3 @@
-'use client';
-
 import { Counter } from '@/components/Common/Counter/Counter';
 
 export default function Home() {
